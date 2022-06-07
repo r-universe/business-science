@@ -1,0 +1,14 @@
+[
+  {
+    "package": "modeltime",
+    "url": "https://github.com/business-science/modeltime",
+    "via": ["modeltime.ensemble"],
+    "from": "modeltime.ensemble"
+  },
+  {
+    "package": "modeltime.resample",
+    "url": "https://github.com/business-science/modeltime.resample",
+    "via": ["modeltime.ensemble"],
+    "from": "modeltime.ensemble"
+  }
+]
