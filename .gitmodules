@@ -68,3 +68,8 @@
 	url = https://github.com/business-science/timetk
 	shallow = true
 	registered = true
+[submodule "workflows"]
+	path = workflows
+	url = https://github.com/tidymodels/workflows
+	shallow = true
+	registered = false
