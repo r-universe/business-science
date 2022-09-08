@@ -1,8 +1,0 @@
-[
-  {
-    "package": "workflows",
-    "url": "https://github.com/tidymodels/workflows",
-    "via": ["modeltime"],
-    "from": "modeltime"
-  }
-]
