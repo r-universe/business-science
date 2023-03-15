@@ -3,19 +3,29 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "alphavantager"]
+	path = alphavantager
+	url = https://github.com/business-science/alphavantager
+	shallow = true
+	registered = true
 [submodule "anomalize"]
 	path = anomalize
 	url = https://github.com/business-science/anomalize
 	shallow = true
 	registered = true
-[submodule "timetk"]
-	path = timetk
-	url = https://github.com/business-science/timetk
+[submodule "correlationfunnel"]
+	path = correlationfunnel
+	url = https://github.com/business-science/correlationfunnel
 	shallow = true
 	registered = true
 [submodule "modeltime"]
 	path = modeltime
 	url = https://github.com/business-science/modeltime
+	shallow = true
+	registered = true
+[submodule "modeltime.ensemble"]
+	path = modeltime.ensemble
+	url = https://github.com/business-science/modeltime.ensemble
 	shallow = true
 	registered = true
 [submodule "modeltime.gluonts"]
@@ -28,34 +38,9 @@
 	url = https://github.com/business-science/modeltime.h2o
 	shallow = true
 	registered = true
-[submodule "sweep"]
-	path = sweep
-	url = https://github.com/business-science/sweep
-	shallow = true
-	registered = true
-[submodule "modeltime.ensemble"]
-	path = modeltime.ensemble
-	url = https://github.com/business-science/modeltime.ensemble
-	shallow = true
-	registered = true
 [submodule "modeltime.resample"]
 	path = modeltime.resample
 	url = https://github.com/business-science/modeltime.resample
-	shallow = true
-	registered = true
-[submodule "alphavantager"]
-	path = alphavantager
-	url = https://github.com/business-science/alphavantager
-	shallow = true
-	registered = true
-[submodule "correlationfunnel"]
-	path = correlationfunnel
-	url = https://github.com/business-science/correlationfunnel
-	shallow = true
-	registered = true
-[submodule "tidyquant"]
-	path = tidyquant
-	url = https://github.com/business-science/tidyquant
 	shallow = true
 	registered = true
 [submodule "riingo"]
@@ -63,8 +48,23 @@
 	url = https://github.com/business-science/riingo
 	shallow = true
 	registered = true
+[submodule "sweep"]
+	path = sweep
+	url = https://github.com/business-science/sweep
+	shallow = true
+	registered = true
 [submodule "tibbletime"]
 	path = tibbletime
 	url = https://github.com/business-science/tibbletime
+	shallow = true
+	registered = true
+[submodule "tidyquant"]
+	path = tidyquant
+	url = https://github.com/business-science/tidyquant
+	shallow = true
+	registered = true
+[submodule "timetk"]
+	path = timetk
+	url = https://github.com/business-science/timetk
 	shallow = true
 	registered = true
