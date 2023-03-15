@@ -1,22 +1,14 @@
 [
   {
-    "package": "alphavantager",
-    "oncran": true
-  },
-  {
     "package": "anomalize",
     "oncran": true
   },
   {
-    "package": "correlationfunnel",
+    "package": "timetk",
     "oncran": true
   },
   {
     "package": "modeltime",
-    "oncran": true
-  },
-  {
-    "package": "modeltime.ensemble",
     "oncran": true
   },
   {
@@ -28,19 +20,23 @@
     "oncran": true
   },
   {
-    "package": "modeltime.resample",
-    "oncran": true
-  },
-  {
-    "package": "riingo",
-    "oncran": true
-  },
-  {
     "package": "sweep",
     "oncran": true
   },
   {
-    "package": "tibbletime",
+    "package": "modeltime.ensemble",
+    "oncran": true
+  },
+  {
+    "package": "modeltime.resample",
+    "oncran": true
+  },
+  {
+    "package": "alphavantager",
+    "oncran": true
+  },
+  {
+    "package": "correlationfunnel",
     "oncran": true
   },
   {
@@ -48,7 +44,11 @@
     "oncran": true
   },
   {
-    "package": "timetk",
+    "package": "riingo",
+    "oncran": true
+  },
+  {
+    "package": "tibbletime",
     "oncran": true
   }
 ]
