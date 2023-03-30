@@ -4,5 +4,11 @@
     "url": "https://github.com/business-science/modeltime",
     "via": ["timetk"],
     "from": "timetk"
+  },
+  {
+    "package": "timetk",
+    "url": "https://github.com/business-science/timetk",
+    "via": ["modeltime"],
+    "from": "modeltime"
   }
 ]
