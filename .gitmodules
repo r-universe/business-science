@@ -58,6 +58,11 @@
 	url = https://github.com/business-science/tibbletime
 	shallow = true
 	registered = true
+[submodule "tidyquant"]
+	path = tidyquant
+	url = https://github.com/business-science/tidyquant
+	shallow = true
+	registered = true
 [submodule "timetk"]
 	path = timetk
 	url = https://github.com/business-science/timetk
