@@ -8,11 +8,6 @@
 	url = https://github.com/business-science/alphavantager
 	shallow = true
 	registered = true
-[submodule "anomalize"]
-	path = anomalize
-	url = https://github.com/business-science/anomalize
-	shallow = true
-	registered = true
 [submodule "correlationfunnel"]
 	path = correlationfunnel
 	url = https://github.com/business-science/correlationfunnel
@@ -28,11 +23,6 @@
 	url = https://github.com/business-science/modeltime.ensemble
 	shallow = true
 	registered = true
-[submodule "modeltime.gluonts"]
-	path = modeltime.gluonts
-	url = https://github.com/business-science/modeltime.gluonts
-	shallow = true
-	registered = true
 [submodule "modeltime.h2o"]
 	path = modeltime.h2o
 	url = https://github.com/business-science/modeltime.h2o
@@ -46,11 +36,6 @@
 [submodule "riingo"]
 	path = riingo
 	url = https://github.com/business-science/riingo
-	shallow = true
-	registered = true
-[submodule "sweep"]
-	path = sweep
-	url = https://github.com/business-science/sweep
 	shallow = true
 	registered = true
 [submodule "tibbletime"]
