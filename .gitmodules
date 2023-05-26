@@ -23,11 +23,6 @@
 	url = https://github.com/business-science/modeltime.ensemble
 	shallow = true
 	registered = true
-[submodule "modeltime.h2o"]
-	path = modeltime.h2o
-	url = https://github.com/business-science/modeltime.h2o
-	shallow = true
-	registered = true
 [submodule "modeltime.resample"]
 	path = modeltime.resample
 	url = https://github.com/business-science/modeltime.resample
