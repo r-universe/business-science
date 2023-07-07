@@ -20,6 +20,9 @@
 [submodule "riingo"]
 	path = riingo
 	url = https://github.com/business-science/riingo
+[submodule "sweep"]
+	path = sweep
+	url = https://github.com/business-science/sweep
 [submodule "tibbletime"]
 	path = tibbletime
 	url = https://github.com/business-science/tibbletime
