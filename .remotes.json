@@ -1,8 +1,0 @@
-[
-  {
-    "package": "modeltime",
-    "url": "https://github.com/business-science/modeltime",
-    "via": ["timetk"],
-    "from": "timetk"
-  }
-]
