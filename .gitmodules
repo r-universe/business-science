@@ -5,6 +5,9 @@
 [submodule "alphavantager"]
 	path = alphavantager
 	url = https://github.com/business-science/alphavantager
+[submodule "anomalize"]
+	path = anomalize
+	url = https://github.com/business-science/anomalize
 [submodule "correlationfunnel"]
 	path = correlationfunnel
 	url = https://github.com/business-science/correlationfunnel
