@@ -14,9 +14,6 @@
 [submodule "modeltime"]
 	path = modeltime
 	url = https://github.com/business-science/modeltime
-[submodule "modeltime.ensemble"]
-	path = modeltime.ensemble
-	url = https://github.com/business-science/modeltime.ensemble
 [submodule "modeltime.resample"]
 	path = modeltime.resample
 	url = https://github.com/business-science/modeltime.resample
